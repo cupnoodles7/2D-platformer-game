@@ -2,7 +2,8 @@
 
 A simple yet engaging 2D platformer game built with Unity. Navigate through various levels, collect items, and avoid obstacles while testing your platforming skills.
 
-![Uploading image.png…]()
+![Image](https://github.com/user-attachments/assets/cf11ea8b-c8fe-4a96-8370-c92800c39664)
+![Image](https://github.com/user-attachments/assets/aa201cfe-dac2-4419-bdaa-780d6c9aa8fd)
 
 
 ## 🕹️ Features
