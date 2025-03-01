@@ -11,11 +11,9 @@ A simple yet engaging 2D platformer game built with Unity. Navigate through vari
 ## 🕹️ Features
 
 - Classic 2D platformer mechanics
-- Multiple levels with increasing difficulty
 - Collectible items and power-ups
 - Smooth character movement and animations
 - Responsive controls
-- Level progression system
 - Score tracking
 
 ## 🛠️ Prerequisites
@@ -43,6 +41,7 @@ A simple yet engaging 2D platformer game built with Unity. Navigate through vari
 - Press **Space** to jump
 - Collect coins to increase your score
 - Avoid obstacles and enemies
+- Health deteoriates progressively with enemy attacks
 - Reach the end of each level to progress
 
 ## 🏗️ Project Structure
