@@ -4,6 +4,8 @@ A simple yet engaging 2D platformer game built with Unity. Navigate through vari
 
 ![Image](https://github.com/user-attachments/assets/9e9e1534-5c7e-4a8a-8959-5f48c0810658)
 ![Image](https://github.com/user-attachments/assets/aa201cfe-dac2-4419-bdaa-780d6c9aa8fd)
+![Image](https://github.com/user-attachments/assets/519e937c-685c-4248-b369-23db5098b603)
+
 
 
 ## 🕹️ Features
